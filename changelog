@@ -1,10 +1,22 @@
-commit 283baea9cefb0f4483b7efd841aa1bec01e25e5d (HEAD, origin/master, origin/HEAD, master)
+commit e182edc6662b582a8bbc3fc8a1715ec49226ddfd (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Jul 19 18:17:44 2017 -0400
+
+    * se optimiza la config de ssh para acelerar la conexion
+
+commit 96e16865eb60396858dc29f21c97b164e75eefc6
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Apr 17 20:57:37 2016 -0430
+
+    * changelog
+
+commit 283baea9cefb0f4483b7efd841aa1bec01e25e5d
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sun Apr 17 20:57:26 2016 -0430
 
     * zenodo
 
-commit 4ad9b7d400434eaaeac55cca9aa05467c81569e4
+commit 4ad9b7d400434eaaeac55cca9aa05467c81569e4 (tag: v0.1.1)
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sat Apr 9 11:48:06 2016 -0430
 
