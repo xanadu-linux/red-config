@@ -1,4 +1,16 @@
-commit e182edc6662b582a8bbc3fc8a1715ec49226ddfd (HEAD, origin/master, origin/HEAD, master)
+commit e1d1e315c34bdfb435c2bcfd6330c070c85180a1 (HEAD -> master, origin/master, origin/HEAD)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Mar 30 13:54:03 2018 -0400
+
+    * se actualiza la configuracion de ssh
+
+commit 3cd8ec4d5a472ae6d2c7d0b46e86fca130beba21
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Jul 19 18:18:47 2017 -0400
+
+    * changelog
+
+commit e182edc6662b582a8bbc3fc8a1715ec49226ddfd
 Author: jose perez <sinfallas@gmail.com>
 Date:   Wed Jul 19 18:17:44 2017 -0400
 
